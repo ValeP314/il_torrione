@@ -30,7 +30,7 @@ h1, h2 {
 /* navigation links */
 
 #menu {
-    font-size: 120%;
+    font-size: 110%;
     letter-spacing: 4px;
 }
 
@@ -60,13 +60,13 @@ h1, h2 {
 /* main image */
 
 #main-outer {
-    height: 750px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
 }
 
 #main-image {
-    height: 750px;
+    height: 600px;
     width: 100%;
     background: url('../images/Il\ Torrione.jpeg') no-repeat center center;
     
@@ -86,10 +86,10 @@ h1, h2 {
     }
 }
 
-/* description section */
+/* description */
 
 #description {
-    height: 750px;
+    height: 600px;
 }
 
 #left-about {
@@ -112,7 +112,7 @@ h1, h2 {
 
 hr {
     border-top: 1px solid #3a3a3a;
-    width: 100%;
+    width: 	100%;
     margin: 5px 0;
 }
 
@@ -138,4 +138,27 @@ hr {
 
 .right-about-heading p {
     text-align: right;
+}
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url('../images/ethos-center-image.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
 }
