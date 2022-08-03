@@ -105,6 +105,7 @@ h2 {
 
 #description p {
     margin-left: 30px; 
+    padding-bottom: 30px;
 }
 
 .photos {
@@ -132,5 +133,27 @@ h2 {
     text-align: center;
 }
 
-
 /* footer */
+
+footer {
+    height: 150px;
+    background-image: url(../images/sfondo.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
