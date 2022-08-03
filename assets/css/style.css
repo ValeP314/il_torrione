@@ -118,7 +118,19 @@ h2 {
 
 .photos img {
     width: 100%;
-    
 }
+
+.location {
+    height: 600px;
+    background-image: url(../images/sfondo.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#map {
+    text-align: center;
+}
+
 
 /* footer */
