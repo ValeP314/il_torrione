@@ -90,7 +90,7 @@ h1, h2 {
 
 #description {
     height: 700px;
-    background-image: url(../images/sfondo.jpeg);
+    
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -180,7 +180,7 @@ footer {
     margin: 70px 10% 0 0;
     color: #fff;
     background-color: rgba(36, 103, 182, 0.5);
-    max-width: 450px;
+    max-width: 400px;
     position: absolute;
     left: 50px;
     padding: 30px;
@@ -202,7 +202,12 @@ footer {
 }
 
 .text-input:hover {
-    border-color: rgba(36, 103, 182);
+    background-color: #fafafa;
+    color: rgba(36, 103, 182);
+}
+
+form > hr {
+    margin: 5px 0 20px 0;
 }
 
 .submit-button {
