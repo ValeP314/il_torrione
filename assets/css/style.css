@@ -225,3 +225,12 @@ form > hr {
     background-color: #fafafa;
     color: rgba(36, 103, 182);
 }
+
+/* Media queries*/
+
+/* Larger to medium screen size from 1200px and below */
+
+@media screen and (max-width: 1200px) {
+    
+
+}
