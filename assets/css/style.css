@@ -90,10 +90,6 @@ h1, h2 {
 
 #description {
     height: 700px;
-    
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 }
 
 h2 {
@@ -102,6 +98,7 @@ h2 {
     padding: 40px;
     font-size: 200%;
 }
+
 
 #description p {
     margin-left: 30px; 
@@ -119,6 +116,9 @@ h2 {
 
 .photos img {
     width: 100%;
+
+
+
 }
 
 .location {
@@ -157,14 +157,35 @@ footer {
 
 /* activities */
 
-#activities {
 
+#activities {
     height: 600px;
-    background-image: url(../images/sfondo.jpeg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    padding-top: 100px;
+    margin-left: 10px;
+    margin-right: 10px; 
 }
+
+.tour {
+    display: inline-block;
+    width: 23%;
+    height: auto;
+    overflow: hidden;
+    margin-left:10px;
+    margin-right: 10px; 
+}
+
+.tour img {
+    max-width: 350px;
+    height: 100%;
+}
+
+#activities p {
+    margin-left: 10px; 
+    padding-bottom: 30px;
+    letter-spacing: 1px;
+    
+}
+
 
 /* Form */
 
@@ -173,7 +194,7 @@ footer {
     background: url(../images/panorama3.jpg);
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height: 1200px;
 }
 
 .contactus-form {
