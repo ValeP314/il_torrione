@@ -1,8 +1,12 @@
-# Love Running
+# Il Torrione
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Il Torrione is a beautiful accommodation situated in Carassai, a medieval town in Ascoli Piceno Province, Italy.
+This project is aimed to propose the rental of this fantastic tower, adiacent to the original boundary walls, still visible in parts of the town.
+The site will be targeted towards couples without kids, passionate about architecture and curious to experience this exclusive setting, overlooking the Apeninnes and the Adriatic Sea.
+Il Torrione website will be a useful tool to communicate with the host and ask all the questions the guests might have.  It will also allow to book some extra activities presented in the "Things to do" page.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+
+
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
@@ -14,7 +18,7 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, "Things to do" and Contact Us page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
@@ -22,14 +26,14 @@ In this section, you should go over the different parts of your project, and des
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - This section introduces the user to Il Torrione with an eye catching animation to grab their attention
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- __Description Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The Description section will allow the user to see the inside of Il Torrione, with a quick view of the different rooms.
+  - This user will see the value of renting the premises, having the opportunity to see he main characteristics that the accommodation will offer.. 
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
@@ -42,21 +46,21 @@ In this section, you should go over the different parts of your project, and des
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the relevant social media sites for Il Torrione. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Gallery__
+- __Thing to do__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
+  - The "Things to do" will provide the user with a list of possible tours that the host is able to arrange for the guests upon request. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __The Contact Us Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get contact Il Torrione with any questions they might have. The user will be able specify if they would like to check availabilities, enquire about possible tours, or ask any other question. The user will be asked to submit their full name and email address. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
@@ -66,7 +70,7 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+- New page with photo gallery and guests review, when there will be enough content for it to be implemented.
 
 ## Testing 
 
