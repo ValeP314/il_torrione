@@ -161,29 +161,44 @@ footer {
 
 /* activities */
 
-table {
-    table-layout: fixed;
-    width: 100%;
-}
-
-
-table img {
-    width: 100%;
-    display: block;
-}
-
-table p {
-    text-align: left;
-    margin-left: 10px; 
-    padding-bottom: 30px;
-    letter-spacing: 1px;
-
-}
-
-table h2 {
-    max-width: 350px;
+#activities {
+    height: 800px;
+    margin-left:10px;
+    margin-right: 10px; 
     text-align: center;
 }
+
+.tours {
+    padding-top: 100px;
+    width: fit-content;
+    /* position: relative;   */
+}
+
+#activities img {
+    width: 100%;
+}
+
+.tours-div {
+    display: inline-block;
+    width: 24%;
+    height: auto;
+    vertical-align: top;
+    position: relative;
+}
+
+
+#activities p {
+    padding: 5px;
+    padding-bottom: 30px;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+#activities h2 {
+    padding-bottom: 30px;
+    letter-spacing: 1px;
+}
+
 
 
 /* Form */
@@ -290,4 +305,8 @@ form > hr {
         margin-bottom: 20px;
         line-height: 20px;
     }
+
+    
+
+
 }
