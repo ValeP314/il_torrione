@@ -103,6 +103,7 @@ h2 {
 #description p {
     margin-left: 30px; 
     padding-bottom: 30px;
+    letter-spacing: 1px;
 }
 
 .photos {
@@ -116,9 +117,6 @@ h2 {
 
 .photos img {
     width: 100%;
-
-
-
 }
 
 .location {
@@ -157,33 +155,28 @@ footer {
 
 /* activities */
 
-
-#activities {
-    height: 600px;
-    padding-top: 100px;
-    margin-left: 10px;
-    margin-right: 10px; 
+table {
+    table-layout: fixed;
+    width: 100%;
 }
 
-.tour {
-    display: inline-block;
-    width: 23%;
-    height: auto;
-    overflow: hidden;
-    margin-left:10px;
-    margin-right: 10px; 
+
+table img {
+    width: 100%;
+    display: block;
 }
 
-.tour img {
-    max-width: 350px;
-    height: 100%;
-}
-
-#activities p {
+table p {
+    text-align: left;
     margin-left: 10px; 
     padding-bottom: 30px;
     letter-spacing: 1px;
-    
+
+}
+
+table h2 {
+    max-width: 350px;
+    text-align: center;
 }
 
 
