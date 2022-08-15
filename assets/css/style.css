@@ -127,10 +127,10 @@ h2 {
 
 .location {
     height: 600px;
-    background-image: url(../images/sfondo.jpeg);
+    /* background-image: url(../images/sfondo.jpeg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: cover; */
 }
 
 #map {
@@ -277,4 +277,17 @@ form > hr {
         padding-right: 20px;
     }
 
+}
+
+/* Larger to medium screen size from 950px and below */
+
+@media screen and (max-width: 950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 20px;
+    }
 }
