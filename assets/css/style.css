@@ -252,5 +252,29 @@ form > hr {
 
 @media screen and (max-width: 1200px) {
     
+    #description {
+        height: 600px;
+        margin: 0 auto;
+    }
+
+    .photos {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .photos img {
+        width: 80%;
+        margin: 0;
+    }
+
+    .photos p {
+        width: 80%;
+        text-align: center;
+    }
+
+    #activities h2 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 
 }
