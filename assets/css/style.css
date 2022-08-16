@@ -105,10 +105,10 @@ h2 {
     margin: 20px;
 }
 
-#description p {
-    margin-left: 10px; 
+#description > p {
     padding-bottom: 30px;
     letter-spacing: 1px;
+    margin-left: 50px;
 }
 
 .photos {
@@ -118,11 +118,16 @@ h2 {
     overflow: hidden;
     margin-left:10px;
     margin-right: 10px; 
+    vertical-align: top;
 }
 
 .photos img {
     width: 100%;
     text-align: center;
+}
+
+.photos p {
+    margin-left: 0px;
 }
 
 .location {
@@ -134,7 +139,19 @@ h2 {
 }
 
 #map {
-    text-align: center;
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+
+}
+
+#map iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
 }
 
 /* footer */
@@ -278,13 +295,15 @@ form > hr {
     }
 
     .photos img {
-        width: 80%;
+        width: 90%;
         margin: 0;
+        margin-left: 30px;
     }
 
     .photos p {
-        width: 80%;
+        width: 90%;
         text-align: center;
+        margin-left: 30px;
     }
 
     #activities h2 {
@@ -292,6 +311,9 @@ form > hr {
         padding-right: 20px;
     }
 
+    #map {
+        width: 100%;
+    }
 }
 
 /* Larger to medium screen size from 950px and below */
