@@ -139,20 +139,10 @@ h2 {
 }
 
 #map {
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
-
+    text-align: center;
 }
+ 
 
-#map iframe {
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-}
 
 /* footer */
 
@@ -311,8 +301,8 @@ form > hr {
         padding-right: 20px;
     }
 
-    #map {
-        width: 100%;
+    #map iframe {
+        width: 80%;
     }
 }
 
@@ -328,7 +318,26 @@ form > hr {
         line-height: 20px;
     }
 
-    
+    #description {
+        height: 1400px;
+    }
 
+    .room {
+        margin: 0;
+    }
+
+    .photos {
+        display: block;
+        width: 250px;
+        height: auto;
+        margin: auto;
+        text-align: center;
+    }
+
+    .photos p {
+        padding-top: 5px;
+        padding-bottom: 20px;
+        overflow: visible;
+    }
 
 }
