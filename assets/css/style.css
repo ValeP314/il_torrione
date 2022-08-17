@@ -283,15 +283,14 @@ form > hr {
     }
 
     .photos img {
-        width: 90%;
+        width: 100%;
         margin: 0;
-        margin-left: 30px;
     }
 
     .photos p {
-        width: 90%;
+        width: 100%;
         text-align: center;
-        margin-left: 30px;
+        /* margin-left: 30px; */
         
     }
 
@@ -329,7 +328,7 @@ form > hr {
 
 
     #description {
-        height: 1400px;
+        height: auto;
     }
 
     .room {
