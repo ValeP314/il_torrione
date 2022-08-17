@@ -213,7 +213,7 @@ footer {
     background: url(../images/panorama5.jpg);
     background-size: cover;
     background-position: center;
-    height: 1200px;
+    height: 900px;
 }
 
 .contactus-form {
@@ -312,7 +312,7 @@ form > hr {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
+        /* margin-left: 10px; */
         margin-bottom: 20px;
         line-height: 20px;
     }
@@ -336,6 +336,12 @@ form > hr {
         margin: 0;
     }
 
+    #description > p {
+        text-align: justify;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
     .photos {
         display: block;
         width: 250px;
@@ -345,6 +351,7 @@ form > hr {
     }
 
     .photos p {
+        
         padding-top: 5px;
         padding-bottom: 40px;
         overflow: visible;
