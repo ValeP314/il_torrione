@@ -83,9 +83,11 @@ The project is responsive, and it looks and works well on different browsers and
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalep314.github.io%2Fproject1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-  
+
 - Accessibility
-  - 
+  - Performance, accessibility and best practices were assessed through Lighthouse in devtools and passed the tesing with good scores.
+  ![Lighthouse](./assets/images/READMEimg/Lighthouse.png)
+
 
 ### Fixed Bugs
 
@@ -108,11 +110,7 @@ None
 The live link can be found here - [Il Torrione](https://valep314.github.io/project1/)
 
 
-## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+## Credits  
 
 ### Content 
 
