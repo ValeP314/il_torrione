@@ -411,4 +411,7 @@ form > hr {
         max-height: 400px;
     }
     
+    .contactus-form {
+        left: 30px;
+    }
 }
