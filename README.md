@@ -73,11 +73,7 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
 
 I tested this page in different browsers: Chrome, Edge, Safari.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+The project is responsive, and it looks and works well on different browsers and screen sizes.
 
 
 ### Validator Testing 
@@ -86,21 +82,26 @@ If this section grows too long, you may want to split it off into a separate fil
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+- Accessibility
+  - 
 
-### Unfixed Bugs
+### Fixed Bugs
 
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
-## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+### Unfixed Bugs
+None
+
+## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - From the menu, select Pages
+  - From the Branch section drop-down menu, select the Main Branch
+  - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - [Il Torrione](https://valep314.github.io/project1/)
 
 
 ## Credits 
@@ -111,19 +112,18 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- The main structure is inspired to the Love Running project, as well as the README file.
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The main structure and the README file are inspired to the Love Running project.
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - The map is taken from GoogleMaps.
+- The colour for the form was selected through [Coolors](https://coolors.co/)
 
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
 - The wine tasting photo on the Activities section is from Pexels by Pixabay: https://www.pexels.com/photo/close-up-of-wine-and-fruits-248413/.
 - The Apennines photo on the Activities section is from Unsplash by Damiano Lingauri: https://unsplash.com/photos/dWTONPnv3g8.
 - The Ascoli photo on the Activities section is from Unsplashed by Marco Faccini: https://unsplash.com/photos/Po8W4z1OaRw.
+- The beach photo on the Activities section is from Unsplashed by Simonetta Sambiase: https://unsplash.com/photos/5Qj4wMsx7nE.
 
 
 
