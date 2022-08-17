@@ -190,7 +190,7 @@ footer {
     width: 24%;
     height: auto;
     vertical-align: top;
-    position: relative;
+    /* position: relative; */
 }
 
 
@@ -294,6 +294,7 @@ form > hr {
         width: 90%;
         text-align: center;
         margin-left: 30px;
+        
     }
 
     #activities h2 {
@@ -318,6 +319,17 @@ form > hr {
         line-height: 20px;
     }
 
+    #main-outer {
+        width:100%;
+        height: fit-content;
+    }
+
+    #main-image {
+        background-size: contain;
+        max-height: 400px;
+    }
+
+
     #description {
         height: 1400px;
     }
@@ -341,7 +353,7 @@ form > hr {
     }
 
     #activities {
-        height: 3000px;
+        height: auto;
     }
 
     .tours {
@@ -349,10 +361,15 @@ form > hr {
     }
 
     .tours-div  {
-        width: 80%;
+        width: 90%;
         display: block;
         margin: auto;
         text-align: center;
+    }
+
+    .tours-div img {
+        max-width: 300px;
+        height: auto;
     }
 
     .tours-div p {
@@ -370,4 +387,23 @@ form > hr {
 
 
 
+}
+
+
+/* Small screen size from 500px and below */
+
+@media screen and (max-width: 500px) {
+    
+    ul{
+        display:flex;
+        flex-direction: column-reverse;
+      }
+    
+    #menu li { 
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 20px;
+    }
+
+    
 }
