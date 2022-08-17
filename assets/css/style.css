@@ -147,7 +147,9 @@ h2 {
 /* footer */
 
 footer {
-    height: 150px;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .social-networks {
@@ -178,7 +180,6 @@ footer {
 .tours {
     padding-top: 100px;
     width: fit-content;
-    /* position: relative;   */
 }
 
 #activities img {
@@ -190,7 +191,6 @@ footer {
     width: 24%;
     height: auto;
     vertical-align: top;
-    /* position: relative; */
 }
 
 
@@ -385,8 +385,6 @@ form > hr {
         margin: 0;
     }
 
-
-
 }
 
 
@@ -394,7 +392,7 @@ form > hr {
 
 @media screen and (max-width: 500px) {
     
-    ul{
+    #menu {
         display:flex;
         flex-direction: column-reverse;
       }
