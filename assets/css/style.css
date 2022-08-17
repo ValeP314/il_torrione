@@ -148,8 +148,6 @@ h2 {
 
 footer {
     height: auto;
-    padding-top: 50px;
-    padding-bottom: 50px;
 }
 
 .social-networks {
@@ -403,5 +401,8 @@ form > hr {
         line-height: 20px;
     }
 
+    #map iframe {
+        max-height: 400px;
+    }
     
 }
