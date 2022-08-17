@@ -311,7 +311,7 @@ form > hr {
     #menu {
         clear: left;
         float: left;
-        /* margin-left: 10px; */
+        margin-left: 30px;
         margin-bottom: 20px;
         line-height: 20px;
     }
@@ -402,9 +402,19 @@ form > hr {
       }
     
     #menu li { 
-        margin-left: 30px;
+        margin-left: 0;
         margin-bottom: 20px;
         line-height: 20px;
+    }
+
+    #main-outer {
+        width:100%;
+        height: fit-content;
+    }
+
+    #main-image {
+        background-size: contain;
+        max-height: 200px;
     }
 
     #map iframe {
