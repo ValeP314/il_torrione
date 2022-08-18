@@ -11,7 +11,7 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
 
 ![Responsive Mockup](./assets/images/READMEimg/Mockup.png)
 
-## Features 
+## Features
 
 ### Existing Features
 
@@ -82,16 +82,16 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fvalep314.github.io%2Fproject1%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fvalep314.github.io%2Fil_torrione%2Findex.html)
 
 
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalep314.github.io%2Fproject1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalep314.github.io%2Fil_torrione%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 
 - Accessibility
   - Performance, accessibility and best practices were assessed through Lighthouse in devtools and passed the testing with good scores.
-  ![Lighthouse](./assets/images/READMEimg/Lighthouse.png)
+  ![Lighthouse](./assets/images/READMEimg/LighthouseTest.png)
 
 
 ### Fixed Bugs
@@ -112,7 +112,7 @@ None
   - From the Branch section drop-down menu, select the Main Branch
   - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - [Il Torrione](https://valep314.github.io/project1/)
+The live link can be found here - [Il Torrione](https://valep314.github.io/il_torrione/)
 
 
 ## Credits  
