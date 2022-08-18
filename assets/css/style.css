@@ -131,7 +131,7 @@ h2 {
 }
 
 .location {
-    height: 600px;
+    height: auto;
     /* background-image: url(../images/sfondo.jpeg);
     background-repeat: no-repeat;
     background-position: center;
