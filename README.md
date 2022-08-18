@@ -6,7 +6,7 @@ The site will be targeted towards couples, passionate about architecture and cur
 Il Torrione website will be a useful tool to communicate with the host and ask all the questions the guests might have.  It will also allow to book some extra activities presented in the "Things to do" page.
 
 
-![Responsive Mockup]()
+![Responsive Mockup](./assets/images/READMEimg/Mockup.png)
 
 ## Features 
 
