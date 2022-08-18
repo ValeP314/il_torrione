@@ -1,8 +1,11 @@
 # Il Torrione
 
 Il Torrione is a beautiful accommodation situated in Carassai, a medieval town in Ascoli Piceno Province, Italy.
+
 This project is aimed to propose the rental of this fantastic tower, adiacent to the original boundary walls, still visible in parts of the town.
+
 The site will be targeted towards couples, passionate about architecture and curious to experience this exclusive setting, overlooking the Apeninnes and the Adriatic Sea.
+
 Il Torrione website will be a useful tool to communicate with the host and ask all the questions the guests might have.  It will also allow to book some extra activities presented in the "Things to do" page.
 
 
@@ -18,14 +21,14 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 
-![Navigation Bar](./assets/images/READMEimg/Navigation-bar.png)
+![Navigation Bar](./assets/images/READMEimg/Navigation_bar.png)
 
 - __The landing page image__
 
   - The landing page includes a photograph of the tower from the outside, to allow the user to see exactly what kind of accommodation they can expect. 
   - This section introduces the user to Il Torrione with an eye catching animation to grab their attention.
 
-![Landing Page](./assets/images/READMEimg/Landing-page.png)
+![Landing Page](./assets/images/READMEimg/Landing_page.png)
 
 - __Description Section__
 
@@ -62,18 +65,18 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
   - The user will be able specify if they would like to check availabilities, enquire about possible tours, or ask any other question. 
   - The form collects the user full name and an email address. 
 
-![Contact Us](./assets/images/READMEimg/Contact-us.png)
+![Contact Us](./assets/images/READMEimg/Contact_us.png)
 
 
 ### Features Left to Implement
 
 - New page with photo gallery and guests review, when there will be enough content for it to be implemented.
 
+
 ## Testing 
 
-I tested this page in different browsers: Chrome, Edge, Safari.
-
-The project is responsive, and it looks and works well on different browsers and screen sizes.
+- I tested this page in different browsers: Chrome, Edge, Safari.
+- The project is responsive, and it looks and works well on different browsers and screen sizes.
 
 
 ### Validator Testing 
@@ -81,11 +84,13 @@ The project is responsive, and it looks and works well on different browsers and
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fvalep314.github.io%2Fproject1%2Findex.html)
 
+
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalep314.github.io%2Fproject1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+
 - Accessibility
-  - Performance, accessibility and best practices were assessed through Lighthouse in devtools and passed the tesing with good scores.
+  - Performance, accessibility and best practices were assessed through Lighthouse in devtools and passed the testing with good scores.
   ![Lighthouse](./assets/images/READMEimg/Lighthouse.png)
 
 
