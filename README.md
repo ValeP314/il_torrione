@@ -94,7 +94,10 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fvalep314.github.io%2Fil_torrione%2Findex.html)
+  - No errors were returned when passing through the official W3C validator:
+    - [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fvalep314.github.io%2Fil_torrione%2Findex.html)
+    - [Activities Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fvalep314.github.io%2Fil_torrione%2Factivities.html)
+    - [Contact Us Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fvalep314.github.io%2Fil_torrione%2Fform.html)
 
 
 - CSS
