@@ -28,21 +28,33 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
   - The landing page includes a photograph of the tower from the outside, to allow the user to see exactly what kind of accommodation they can expect. 
   - This section introduces the user to Il Torrione with an eye catching animation to grab their attention.
 
+<<<<<<< HEAD
     ![Landing Page](./assets/images/READMEimg/landing_page.png)
+=======
+  ![Landing Page](./assets/images/READMEimg/Landing_page.png)
+>>>>>>> 83c0d597da43b27b4f1d984fef703eb11fc2f28d
 
 - __Description Section__
 
   - The Description section will allow the user to see the inside of Il Torrione, with a quick view of the different rooms.
   - This user will see the value of renting the premises, having the opportunity to see he main features that the accommodation will offer. 
 
+<<<<<<< HEAD
     ![Description](./assets/images/READMEimg/description.png)
+=======
+  ![Description](./assets/images/READMEimg/Description.png)
+>>>>>>> 83c0d597da43b27b4f1d984fef703eb11fc2f28d
 
 - __Map section__
 
   - This section will allow the user to see exactly where Il Torrione is situated. 
   - The map is interactive and allow the user to place the accommodation in its town Carassai, as well as in Le Marche Region. 
 
+<<<<<<< HEAD
     ![Map](./assets/images/READMEimg/map.png)
+=======
+  ![Map](./assets/images/READMEimg/Map.png)
+>>>>>>> 83c0d597da43b27b4f1d984fef703eb11fc2f28d
 
 - __The Footer__ 
 
@@ -50,14 +62,22 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   - The last link redirects to the Booking.com page.
 
+<<<<<<< HEAD
     ![Footer](./assets/images/READMEimg/footer.png)
+=======
+  ![Footer](./assets/images/READMEimg/Footer.png)
+>>>>>>> 83c0d597da43b27b4f1d984fef703eb11fc2f28d
 
 - __Thing to do__
 
   - The "Things to do" will provide the user with a list of possible tours that the host is able to arrange for the guests upon request. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
+<<<<<<< HEAD
     ![Activities](./assets/images/READMEimg/activities.png)
+=======
+  ![Activities](./assets/images/READMEimg/Activities.png)
+>>>>>>> 83c0d597da43b27b4f1d984fef703eb11fc2f28d
 
 - __The Contact Us Page__
 
@@ -65,13 +85,21 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
   - The user will be able specify if they would like to check availabilities, enquire about possible tours, or ask any other question. 
   - The form collects the user first and last name, an email address, the type of query and a free-text message. 
 
+<<<<<<< HEAD
     ![Contact Us](./assets/images/READMEimg/contact_us.png)
+=======
+  ![Contact Us](./assets/images/READMEimg/Contact_us.png)
+>>>>>>> 83c0d597da43b27b4f1d984fef703eb11fc2f28d
 
 
 ### Features Left to Implement
 
 - New page with photo gallery and guests review, when there will be enough content for it to be implemented.
+<<<<<<< HEAD
 - A Favicon once the logo will be finalised by the customer.
+=======
+- Add favicon once the logo will be finalised by customer.
+>>>>>>> 83c0d597da43b27b4f1d984fef703eb11fc2f28d
 
 
 ## Testing 
@@ -113,7 +141,7 @@ None
   - From the Branch section drop-down menu, select the Main Branch
   - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - [Il Torrione](https://valep314.github.io/il_torrione/)
+  The live link can be found here - [Il Torrione](https://valep314.github.io/il_torrione/)
 
 
 ## Credits  
@@ -137,6 +165,10 @@ The live link can be found here - [Il Torrione](https://valep314.github.io/il_to
 
 
 ### Disclaimer
+<<<<<<< HEAD
 The information provided on this site is intended for educational purposes only.
 
+=======
+The content of this Website is for educational purposes only.
+>>>>>>> 83c0d597da43b27b4f1d984fef703eb11fc2f28d
 
