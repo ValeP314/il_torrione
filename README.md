@@ -9,7 +9,7 @@ The site will be targeted towards couples, passionate about architecture and cur
 Il Torrione website will be a useful tool to communicate with the host and ask all the questions the guests might have.  It will also allow to book some extra activities presented in the "Things to do" page.
 
 
-![Responsive Mockup](./assets/images/READMEimg/Mockup.png)
+![Responsive Mockup](./assets/images/READMEimg/mockup.png)
 
 ## Features
 
@@ -21,28 +21,28 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 
-![Navigation Bar](./assets/images/READMEimg/Navigation_bar.png)
+![Navigation Bar](./assets/images/READMEimg/navigation_bar.png)
 
 - __The landing page image__
 
   - The landing page includes a photograph of the tower from the outside, to allow the user to see exactly what kind of accommodation they can expect. 
   - This section introduces the user to Il Torrione with an eye catching animation to grab their attention.
 
-![Landing Page](./assets/images/READMEimg/Landing_page.png)
+![Landing Page](./assets/images/READMEimg/landing_page.png)
 
 - __Description Section__
 
   - The Description section will allow the user to see the inside of Il Torrione, with a quick view of the different rooms.
   - This user will see the value of renting the premises, having the opportunity to see he main features that the accommodation will offer. 
 
-![Description](./assets/images/READMEimg/Description.png)
+![Description](./assets/images/READMEimg/description.png)
 
 - __Map section__
 
   - This section will allow the user to see exactly where Il Torrione is situated. 
   - The map is interactive and allow the user to place the accommodation in its town Carassai, as well as in Le Marche Region. 
 
-![Map](./assets/images/READMEimg/Map.png)
+![Map](./assets/images/READMEimg/map.png)
 
 - __The Footer__ 
 
@@ -50,14 +50,14 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   - The last link redirects to the Booking.com page.
 
-![Footer](./assets/images/READMEimg/Footer.png)
+![Footer](./assets/images/READMEimg/footer.png)
 
 - __Thing to do__
 
   - The "Things to do" will provide the user with a list of possible tours that the host is able to arrange for the guests upon request. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-![Activities](./assets/images/READMEimg/Activities.png)
+![Activities](./assets/images/READMEimg/activities.png)
 
 - __The Contact Us Page__
 
@@ -65,7 +65,7 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
   - The user will be able specify if they would like to check availabilities, enquire about possible tours, or ask any other question. 
   - The form collects the user full name and an email address. 
 
-![Contact Us](./assets/images/READMEimg/Contact_us.png)
+![Contact Us](./assets/images/READMEimg/contact_us.png)
 
 
 ### Features Left to Implement
@@ -91,7 +91,7 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
 
 - Accessibility
   - Performance, accessibility and best practices were assessed through Lighthouse in devtools and passed the testing with good scores.
-  ![Lighthouse](./assets/images/READMEimg/LighthouseTest.png)
+  ![Lighthouse](./assets/images/READMEimg/lighthouse_test.png)
 
 
 ### Fixed Bugs
