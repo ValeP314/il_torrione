@@ -71,6 +71,7 @@ Il Torrione website will be a useful tool to communicate with the host and ask a
 ### Features Left to Implement
 
 - New page with photo gallery and guests review, when there will be enough content for it to be implemented.
+- Add favicon once the logo will be finalised by customer.
 
 
 ## Testing 
@@ -133,5 +134,6 @@ None
 - The beach photo on the Activities section is from Unsplashed by Simonetta Sambiase: https://unsplash.com/photos/5Qj4wMsx7nE.
 
 
-
+### Disclaimer
+The content of this Website is for educational purposes only.
 
