@@ -132,10 +132,7 @@ h2 {
 
 .location {
     height: auto;
-    /* background-image: url(../images/sfondo.jpeg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover; */
+   
 }
 
 #map {
@@ -290,7 +287,7 @@ form > hr {
     .photos p {
         width: 100%;
         text-align: center;
-        /* margin-left: 30px; */
+    
         
     }
 
